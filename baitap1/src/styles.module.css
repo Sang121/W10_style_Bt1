@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  height: 1000px;
+}
+.sidebar {
+  width: 30%;
+  background: #45c3ed;
+  height: 100%;
+}
+.content {
+  width: 70%;
+  background: red;
+}
